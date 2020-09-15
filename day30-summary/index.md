@@ -52,3 +52,6 @@ https://blog.bitsrc.io/10-top-chrome-extensions-for-front-end-developers-db23a01
 - cmder
 - record screen
 - sourcetree
+
+http://frontendtools.com/
+https://www.valuecoders.com/blog/technology-and-apps/top-15-front-end-development-tools-2019/

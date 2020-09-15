@@ -12,37 +12,42 @@
 
 這裡會列出預計產出的文章主題，並且提供連結可方便查閱。詳細的名稱或內容會再根據當天的定稿有所異動。
 
-| 天數 | 主題                                     |
-| ---- | ---------------------------------------- |
-| 02   | [Chrome Dev Tool - 基本]()               |
-| 03   | [Chrome Dev Tool - 樣式]()               |
-| 04   | [Chrome Dev Tool - 除錯]()               |
-| 05   | [Chrome Dev Tool - 效能]()               |
-| 06   | [Chrome Dev Tool - 網路]()               |
-| 07   | [Chrome Dev Tool - 擴充功能]()           |
-| 08   | [Chrome Dev Tool - 其他]()               |
-| 09   | [Can I Use & Wappalyzer]()               |
-| 10   | [JSON]()                                 |
-| 11   | [Regex]()                                |
-| 12   | [Dummy assets]()                         |
-| 13   | [Google Font Helper]()                   |
-| 14   | [Color & Plette]()                       |
-| 15   | [ES2017(ES8) - 物件]()                   |
-| 16   | [ES2017(ES8) - 非同步]()                 |
-| 17   | [ES2017(ES8) - 其他]()                   |
-| 18   | [ES2018(ES9) - 展開與其餘運算符]()       |
-| 19   | [ES2018(ES9) - 非同步]()                 |
-| 20   | [ES2019(ES10) - 陣列]()                  |
-| 21   | [ES2019(ES10) - 物件]()                  |
-| 22   | [ES2019(ES10) - Symbol]()                |
-| 23   | [ES2019(ES10) - json 處理]()             |
-| 24   | [ES2019(ES10) - try catch 處理]()        |
-| 25   | [ES2020(ES11) - Part1]()                 |
-| 26   | [ES2020(ES11) - Part2]()                 |
-| 27   | [ES2020(ES11) - Part3]()                 |
-| 28   | [ES2020(ES11) - Part4]()                 |
-| 29   | [ES2021(ESNext) - 總集結]()              |
-| 30   | [Babel、ESLint、Typescript 的相關設定]() |
+| 天數 | 主題                       |
+| ---- | -------------------------- |
+|      | Chrome Dev Tool            |
+| 02   | [基本篇]()                 |
+| 03   | [樣式篇]()                 |
+| 04   | [除錯篇]()                 |
+| 05   | [效能篇]()                 |
+| 06   | [網路篇]()                 |
+| 07   | [SEO 篇]()                 |
+| 08   | [React 篇]()               |
+| 09   | [補充篇]()                 |
+|      | 樣式與視覺                 |
+| 10   | [Color - part1]()          |
+| 11   | [Color - part2]()          |
+| 12   | [CSS generator - part1]()  |
+| 13   | [CSS generator - part2]()  |
+| 14   | [Google Font Helper]()     |
+| 15   | [Placeholder - part1]()    |
+| 16   | [Placeholder - part2]()    |
+| 17   | [免費圖示庫]()             |
+| 18   | [免費圖庫]()               |
+|      | VSCode                     |
+| 19   | [VSCode - 常用功能]()      |
+| 20   | [VSCode - Prettier]()      |
+| 21   | [VSCode - TabNine]()       |
+| 22   | [VSCode - WakaTime]()      |
+| 23   | [VSCode - 常用 snippets]() |
+| 24   | [VSCode - 快捷 console]()  |
+|      | Git                        |
+| 25   | [SourceTree]()             |
+| 26   | [Github]()                 |
+|      | 其他                       |
+| 27   | [Can I Use & Wappalyzer]() |
+| 28   | [JSON]()                   |
+| 29   | [正規表達式]()             |
+| 30   | [實用的瀏覽器擴充功能]()   |
 
 ## 小結
 
