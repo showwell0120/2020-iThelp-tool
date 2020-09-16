@@ -1,6 +1,6 @@
 # [Day02] 瀏覽器開發工具 - 基本篇
 
-> Chrome 開發者工具是一套內置於Google Chrome中的Web開發和調試工具，可用來對網站進行迭代、調試和分析。([Chrome DevTools | Google Developers](https://developers.google.com/web/tools/chrome-devtools))
+> Chrome 開發者工具是一套內置於Google Chrome中的Web開發和調試工具，可用來對網站進行迭代、調試和分析。
 
 ## 前言
 
