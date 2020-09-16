@@ -9,6 +9,7 @@
 而目前Chrome仍然是瀏覽器屆中的霸主 (不過換了chromium為核心後的Edge，市佔率已經超過firefox，接下來是否有機會抬頭哩?我們繼續看下去🧐)   
 
 加上Google對於開發者工具的發展也頗有用心，一直都有持續開發新功能，方便Web的開發人員進行更全面的檢測與調試。因此在接下來的這幾天，主要會分別介紹Chrome DevTools的使用情境與操作技巧。
+
 ![dev tool](https://developers.google.com/web/tools/chrome-devtools/javascript/imgs/open-settings.png?hl=zh-tw)
 
 ## 如何開啟開發者工具?
