@@ -55,3 +55,5 @@ https://blog.bitsrc.io/10-top-chrome-extensions-for-front-end-developers-db23a01
 
 http://frontendtools.com/
 https://www.valuecoders.com/blog/technology-and-apps/top-15-front-end-development-tools-2019/
+
+https://free.com.tw/icons8-animated-icons/?fbclid=IwAR3WDNh5RHPNKv1_i5jpPjmaPC6gWFc6eufwN336jeJ4Ft_EhzWmgMMU40c
