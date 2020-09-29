@@ -43,6 +43,7 @@
 - 最近更新：2019/11/25
 - 官方提供：是
 - [商店連結](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+- [source code](https://github.com/vuejs/vue-devtools)
 
 跟 React 一樣，可以瀏覽元件的階層關係、狀態值，甚至還可以對狀態進行修改，查看頁面的變化。
 
