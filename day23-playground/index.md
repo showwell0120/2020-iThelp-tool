@@ -17,6 +17,8 @@
 
 ## [TypeScript - Playground](https://www.typescriptlang.org/play)
 
+## [Prettier Playground](https://prettier.io/playground/)
+
 ## 參考資源
 
 - [10 Best Online Front end playgrounds to use in 2020](https://creatiffish.com/blog/websites/10-best-online-front-end-playgrounds/)
