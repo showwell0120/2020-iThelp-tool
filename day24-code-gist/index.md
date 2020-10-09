@@ -9,7 +9,7 @@
 
 應該不少人在做跨瀏覽器支援時，或多或少都有用過這個工具。不管是 JS 或是 CSS，推陳出新的速度很快，但是各家瀏覽器的版本支援通常是沒辦法完美同步。所以很常時候當要使用實驗性功能，或是相當新的語法時，我們必須要知道各個瀏覽器的支援情況。
 
-比如果最近推出的新的圖片格式`WebP`，如果想在專案中導入，就要先看[支援度](https://caniuse.com/webp)如何。
+比如最近推出的新的圖片格式`WebP`，如果想在專案中導入，就要先看[支援度](https://caniuse.com/webp)如何。
 
 - 在結果頁面左上，會有這個特性的基本介紹，還有報告的顯示設定。
   ![Imgur](https://i.imgur.com/H3sfpGj.png)
@@ -37,7 +37,7 @@ Wappalyzer 在首頁有提供網址輸入查詢的功能，不過需要登入會
    ![Imgur](https://i.imgur.com/E6KGTqu.png)
 
 3. 顯示分析結果。以 Facebook 為例，可以看到前端框架使用 React、RxJS，後端使用 PHP，並使用 HTTP/2 等。  
-   ！[Imgur](https://i.imgur.com/XXGWwEi.png)
+   ![Imgur](https://i.imgur.com/XXGWwEi.png)
 
 Wappalyzer 還有提供免費的瀏覽器擴充功能安裝，在 Chrome、Firefox 和 Edge 上可以使用。操作上其實更直覺，直接在想查看的網址能點選擴充功能就好。
 
